@@ -1,0 +1,1 @@
+A escolha da cor laranja foi pensando em energia, entusiasmo, criatividade e alegria, funcionando como uma mistura vibrante entre a paixão do vermelho e a felicidade do amarelo. 
