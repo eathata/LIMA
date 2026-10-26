@@ -1,0 +1,69 @@
+    .destaque { /* Seletor por classe*/
+        color: blue;
+        font-weight: bold;
+    }
+
+    #título-principal { /* Seletor por id*/
+        color: red;
+        text-align: center;
+    }
+
+    p { /* Seletor por tag*/
+        font-size: 18px;
+        line-height: 1.5;
+    }
+
+    * { /* Seletor universal*/
+        margin: 10;
+        padding: 10;
+        box-sizing: border-box;
+    }
+h1, h2, h3 {
+    font-family: Arial, sans-serif;
+    color: darkgreen;
+}
+
+h4 {
+    color: darkblue;
+    font-style: italic;
+    font-size: 20px;
+    line-height: 1.5;
+    letter-spacing: 2px;
+    text-align: justify;
+    word-spacing: 5px;
+}
+
+.link {
+    width: 200px;
+    height: auto;
+    border: 2px solid black;
+    display: block;
+    margin: 20px auto;
+}
+
+#Lista {
+    list-style-type: circle;
+}
+
+table td, tr, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: #f2f2f2;
+    padding: 10px;
+    border-spacing: 5px;
+}
+
+a:link {
+color: blueviolet
+}
+a:visited {
+color: yellow;
+}
+a:hover {
+color: red;
+text-decoration: underline;
+font-size: 20px;
+}
+a:active {
+color: purple;
+}
